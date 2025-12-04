@@ -1,2 +1,4 @@
 # gui-get_last_mp4_frame
 Create a screenshot of the last frame from a .mp4 video
+
+<img width="524" height="249" alt="grafik" src="https://github.com/user-attachments/assets/55701e13-b6fc-4212-9cac-ddd368f2c444" />
